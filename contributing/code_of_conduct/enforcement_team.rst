@@ -1,10 +1,18 @@
 Enforcement team
-================
+===============
 
-The role of the enforcement team is to make sure the :doc:`Code of Conduct </contributing/code_of_conduct/index>`
-is respected. If you think there is or has been a violation to the code of conduct
-please read the :doc:`reporting guidelines </contributing/code_of_conduct/reporting_guidelines>`
-and contact any person in the enforcement team.
+Our Pledge
+----------
+
+In the interest of fostering an open and welcoming environment, the enforcement team
+pledge to ensure that the spirit of the :doc:`Code of Conduct </contributing/code_of_conduct/index>`
+is respected. Our main priority is to ensure the safety of our community members.
+The second goal is to help educate the community as a whole to be aware of the CoC
+and how to help implement its spirit throughout the community. In case these goals
+conflict, we will prioritize safety of community members over all other goals.
+
+If you think there is or has been a violation to the code of conduct please contact
+enforcement team or of you prefer contact only individual members of the enforcement team.
 
 Members
 -------
