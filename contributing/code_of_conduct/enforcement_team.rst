@@ -17,14 +17,12 @@ enforcement team or of you prefer contact only individual members of the enforce
 Members
 -------
 
+Here are all the members of the Code of Conduct enforcement team. You can contact
+any of them by sending an email or tweet. You could also contact all of them at once
+by emailing **coc@symfony.com**.
+
 Lukas Kahwe Smith
 `````````````````
-.. image:: https://avatars3.githubusercontent.com/u/300279?s=400&v=4
-   :height: 150px
-   :width: 150px
-   :alt: Likas Kahwe Smith
-   :class: pull-right
-
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, susciit sed rhoncus quis, blandit
 quis sapien. Ut congue pharetra rhoncus.
@@ -34,12 +32,6 @@ quis sapien. Ut congue pharetra rhoncus.
 
 Lukas Kahwe Smith
 `````````````````
-.. image:: https://avatars3.githubusercontent.com/u/300279?s=400&v=4
-   :height: 150px
-   :width: 150px
-   :alt: Likas Kahwe Smith
-   :class: pull-right
-
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
 quis sapien. Ut congue pharetra rhoncus.
@@ -49,11 +41,6 @@ quis sapien. Ut congue pharetra rhoncus.
 
 Lukas Kahwe Smith
 `````````````````
-.. image:: https://avatars3.githubusercontent.com/u/300279?s=400&v=4
-   :height: 150px
-   :width: 150px
-   :alt: Likas Kahwe Smith
-   :class: pull-right
 
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
@@ -70,5 +57,4 @@ team with candidates they see fit. The enforcement team will consists of at leas
 be 3 persons. The team should be representing as many demographics as possible,
 ideally from different employers and not in a private partnership with Symfony
 and/or SensioLabs.
-
 

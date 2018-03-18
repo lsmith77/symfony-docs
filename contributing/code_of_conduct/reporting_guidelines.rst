@@ -1,14 +1,16 @@
 Reporting Guidelines
 ====================
 
-If you believe someone is violating the code of conduct we ask that you report
+If you believe someone is violating the Code of Conduct we ask that you report
 it to the :doc:`enforcement team </contributing/code_of_conduct/enforcement_team>`
 by emailing, twitter, in person or any way you see fit.
 
-**All reports will be kept confidential.** In some cases we may determine that
-a public statement will need to be made. If that's the case, the identities of
-all victims, reporters, and the accused will remain confidential unless those
-individuals instruct us otherwise.
+**All reports will be kept confidential.** The privacy of everyone included in
+the report is of our highest concern. Second to privacy there is transparency.
+After every report we will determine if a public statement should be made. If
+that's the case, the identities of all victims, reporters, and the accused will
+remain confidential unless those individuals instruct us otherwise. The details
+of the incident may also be generalized.
 
 If you believe anyone is in physical danger, please notify appropriate emergency
 services first by calling the relevant local authorities. If you are unsure what
@@ -37,7 +39,7 @@ acknowledging receipt as soon as possible, but within 24 hours.
 The team will immediately meet to review the incident and determine:
 
   * What happened.
-  * Whether this event constitutes a code of conduct violation.
+  * Whether this event constitutes a Code of Conduct violation.
   * What kind of response is appropriate.
 
 If this is determined to be an ongoing incident or a threat to physical safety,
@@ -48,17 +50,16 @@ and that everyone is physically safe.
 Once the team has a complete account of the events, they will make a decision as
 to how to respond. Responses may include:
 
-  * Nothing (if we determine no code of conduct violation occurred).
+  * Nothing (if we determine no Code of Conduct violation occurred).
   * A private reprimand from the Code of Conduct response team to the individual(s)
     involved.
-  * A public reprimand.
   * An imposed vacation (i.e. asking someone to "take a week off" from a mailing
     list or Slack).
   * A permanent or temporary ban from some or all Symfony conference/community
     spaces (events, meetings, mailing lists, IRC, Slack, etc.)
   * A request to engage in mediation and/or an accountability plan.
-  * On a case by case basis, the enforcement team might share information an incidents
-    with employers or other 3rd parties in order to fulfill their mandate.
+  * On a case by case basis, other actions may be possible but will usually be
+    coordinated with the core-team.
 
 We'll respond within one week to the person who filed the report with either a
 resolution or an explanation of why the situation is not yet resolved.
