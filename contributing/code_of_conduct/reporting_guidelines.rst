@@ -12,10 +12,10 @@ that's the case, the identities of all victims, reporters, and the accused will
 remain confidential unless those individuals instruct us otherwise. The details
 of the incident may also be generalized.
 
-If you believe anyone is in physical danger, please notify appropriate emergency
-services first by calling the relevant local authorities. If you are unsure what
-service or agency is appropriate to contact, include this in your report and we
-will attempt to notify them.
+If you believe anyone is in physical danger or doing something that is against
+the law, please notify appropriate emergency services first by calling the relevant
+local authorities. If you are unsure what service or agency is appropriate to
+contact, include this in your report and we will attempt to notify them.
 
 In your report please include:
 
@@ -23,9 +23,9 @@ In your report please include:
   * Names (legal, nicknames, or pseudonyms) of any individuals involved.
   * If there were other witnesses besides you, please try to include them as well.
   * When and where the incident occurred. Please be as specific as possible.
-  * Your account of what occurred.
+  * Your description of what occurred.
   * If there is a publicly available record (e.g. a mailing list archive or a
-    public IRC or Slack log), please include a link.
+    public IRC or Slack log), please include a link and a screenshot.
   * Any extra context you believe existed for the incident.
   * If you believe this incident is ongoing.
   * Any other information you believe we should have.
@@ -36,7 +36,8 @@ What happens after you file a report?
 You will receive a reply from the :doc:`enforcement team </contributing/code_of_conduct/enforcement_team>`
 acknowledging receipt as soon as possible, but within 24 hours.
 
-The team will immediately meet to review the incident and determine:
+The team member receiving the report  will immediately contact all or some other
+enforcement team members to review the incident and determine:
 
   * What happened.
   * Whether this event constitutes a Code of Conduct violation.
@@ -59,12 +60,12 @@ to how to respond. Responses may include:
     spaces (events, meetings, mailing lists, IRC, Slack, etc.)
   * A request to engage in mediation and/or an accountability plan.
   * On a case by case basis, other actions may be possible but will usually be
-    coordinated with the core-team.
+    coordinated with the core team and Symfony.
 
 We'll respond within one week to the person who filed the report with either a
 resolution or an explanation of why the situation is not yet resolved.
 
-Once we've determined our final action, we'll contact the original reporter to
+Once we've determined our final actions, we'll contact the original reporter to
 let them know what action (if any) we'll be taking. We'll take into account feedback
 from the reporter on the appropriateness of our response, but our response will be
 determined by what will be best for community safety.
@@ -92,7 +93,6 @@ Reporting Guidelines derived from those of the `Stumptown Syndicate`_ and the
 `Django Software Foundation`_.
 
 Adopted by `Symfony`_ organizers on 21 February 2018.
-
 
 .. _`Stumptown Syndicate`: http://stumptownsyndicate.org/code-of-conduct/reporting-guidelines/
 .. _`Django Software Foundation`: https://www.djangoproject.com/conduct/reporting/

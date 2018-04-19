@@ -12,7 +12,7 @@ and how to help implement its spirit throughout the community. In case these goa
 conflict, we will prioritize safety of community members over all other goals.
 
 If you think there is or has been a violation to the code of conduct please contact
-enforcement team or of you prefer contact only individual members of the enforcement team.
+enforcement team or if you prefer contact only individual members of the enforcement team.
 
 Members
 -------
@@ -52,9 +52,7 @@ quis sapien. Ut congue pharetra rhoncus.
 About the Enforcement Team
 --------------------------
 
-The :doc:`Symfony core team </contributing/code/core_team>` appoints enforcement
-team with candidates they see fit. The enforcement team will consists of at least
+The :doc:`Symfony project leader </contributing/code/core_team>` appoints enforcement
+team with candidates they see fit. The enforcement team will consist of at least
 be 3 persons. The team should be representing as many demographics as possible,
-ideally from different employers and not in a private partnership with Symfony
-and/or SensioLabs.
-
+ideally from different employers and not in a private partnership.
