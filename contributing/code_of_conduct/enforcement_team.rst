@@ -22,7 +22,8 @@ any of them by sending an email or tweet. You could also contact all of them at 
 by emailing **coc@symfony.com**.
 
 Lukas Kahwe Smith
-`````````````````
+~~~~~~~~~~~~~~~~~
+
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, susciit sed rhoncus quis, blandit
 quis sapien. Ut congue pharetra rhoncus.
@@ -31,7 +32,8 @@ quis sapien. Ut congue pharetra rhoncus.
 | **Twitter:** @lsmith
 
 Lukas Kahwe Smith
-`````````````````
+~~~~~~~~~~~~~~~~~
+
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
 quis sapien. Ut congue pharetra rhoncus.
@@ -40,7 +42,7 @@ quis sapien. Ut congue pharetra rhoncus.
 | **Twitter:** @lsmith
 
 Lukas Kahwe Smith
-`````````````````
+~~~~~~~~~~~~~~~~~
 
 Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
@@ -55,4 +57,5 @@ About the Enforcement Team
 The :doc:`Symfony project leader </contributing/code/core_team>` appoints enforcement
 team with candidates they see fit. The enforcement team will consist of at least
 3 persons. The team should be representing as many demographics as possible,
-ideally from different employers and not in a private partnership.
+ideally from different employers and from employers without in close partnerships
+with each other.

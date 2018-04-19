@@ -3,7 +3,7 @@ Reporting Guidelines
 
 If you believe someone is violating the Code of Conduct we ask that you report
 it to the :doc:`enforcement team </contributing/code_of_conduct/enforcement_team>`
-by emailing, twitter, in person or any way you see fit.
+by emailing, Twitter, in person or any way you see fit.
 
 **All reports will be kept confidential.** The privacy of everyone included in
 the report is of our highest concern. Second to privacy there is transparency.
@@ -26,7 +26,6 @@ In your report please include:
   * Your description of what occurred.
   * If there is a publicly available record (e.g. a mailing list archive or a
     public IRC or Slack log), please include a link and a screenshot.
-  * Any extra context you believe existed for the incident.
   * If you believe this incident is ongoing.
   * Any other information you believe we should have.
 
