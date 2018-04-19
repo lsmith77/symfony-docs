@@ -59,7 +59,7 @@ to how to respond. Responses may include:
     spaces (events, meetings, mailing lists, IRC, Slack, etc.)
   * A request to engage in mediation and/or an accountability plan.
   * On a case by case basis, other actions may be possible but will usually be
-    coordinated with the core team and Symfony.
+    coordinated with the core team and the Symfony company.
 
 We'll respond within one week to the person who filed the report with either a
 resolution or an explanation of why the situation is not yet resolved.
