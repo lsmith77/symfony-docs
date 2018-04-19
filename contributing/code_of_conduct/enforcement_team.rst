@@ -54,5 +54,5 @@ About the Enforcement Team
 
 The :doc:`Symfony project leader </contributing/code/core_team>` appoints enforcement
 team with candidates they see fit. The enforcement team will consist of at least
-be 3 persons. The team should be representing as many demographics as possible,
+3 persons. The team should be representing as many demographics as possible,
 ideally from different employers and not in a private partnership.

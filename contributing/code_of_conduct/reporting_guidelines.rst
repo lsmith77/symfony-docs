@@ -36,7 +36,7 @@ What happens after you file a report?
 You will receive a reply from the :doc:`enforcement team </contributing/code_of_conduct/enforcement_team>`
 acknowledging receipt as soon as possible, but within 24 hours.
 
-The team member receiving the report  will immediately contact all or some other
+The team member receiving the report will immediately contact all or some other
 enforcement team members to review the incident and determine:
 
   * What happened.
